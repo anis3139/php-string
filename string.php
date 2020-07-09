@@ -67,7 +67,7 @@ echo $string[$i*-1];
 
 //String tocken
 
-$string= "Hello World,Rakib, How are you";
+// $string= "Hello World,Rakib, How are you";
 
 // $parts=explode(' ',$string);
 // print_r($parts);
